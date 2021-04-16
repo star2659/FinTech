@@ -30,4 +30,4 @@
 
 * 第一次進度追蹤
 
-[![第一次進度追蹤](https://imgur.com/Z5F8QOL.jpg)](https://www.youtube.com/watch?v=QZrZ1keDxIA)
+[![第一次進度追蹤](https://imgur.com/Z5F8QOL.jpg)](https://www.youtube.com/watch?v=xh2L-zxXe7s)
