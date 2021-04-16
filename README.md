@@ -27,3 +27,7 @@
 | 陳昱嘉   | 台大財金所碩一       |
 | 呂承翰   | 東吳巨資二       | 
 | 黃緯易   | 台大國發所碩二       | 
+
+* 第一次進度追蹤
+
+[![第一次進度追蹤](https://imgur.com/Z5F8QOL.jpg)](https://www.youtube.com/watch?v=QZrZ1keDxIA)
