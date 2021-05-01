@@ -9,8 +9,8 @@
 > 運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能
 ### [HomeWork 4](https://github.com/star2659/FinTech/blob/main/HW4/%E4%BD%9C%E6%A5%AD%E5%9B%9B.md)
 > 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果  
-### HomeWork 5
-
+### [HomeWork 5](https://github.com/star2659/FinTech/blob/main/HW5/%E4%BD%9C%E6%A5%AD%E4%BA%94.md)
+> 使用AWS-RDS資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為
 ### HomeWork 6
 
 ## Project
