@@ -31,4 +31,4 @@
 * 第一次進度追蹤
 
 [![第一次進度追蹤](https://imgur.com/Z5F8QOL.jpg)](https://www.youtube.com/watch?v=xh2L-zxXe7s)
-[![第二次進度追蹤](https://imgur.com/v3E2z2y.jpg)(https://docs.google.com/presentation/d/1uFC4wPqgUcOcpulNt9lO4EsWBYhpYYqg/edit#slide=id.p6)
+[![第二次進度追蹤](https://imgur.com/v3E2z2y.jpg)](https://docs.google.com/presentation/d/1uFC4wPqgUcOcpulNt9lO4EsWBYhpYYqg/edit#slide=id.p6)
