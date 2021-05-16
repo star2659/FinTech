@@ -12,7 +12,7 @@
 ### [HomeWork 5](https://github.com/star2659/FinTech/blob/main/HW5/%E4%BD%9C%E6%A5%AD%E4%BA%94.md)
 > 使用AWS-RDS資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為
 ### HomeWork 6
-
+> 在 EC2 上建立 Docker Image
 ## Project
 > 題目:"野村投信"運用熱門主題及字組提升行銷轉換成率之探索性研究
 > 
